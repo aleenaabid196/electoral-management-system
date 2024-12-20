@@ -1,3 +1,5 @@
+#Electoral Management System
+
 Elections are at the heart of the democratic process, enabling citizens to choose their representatives, shape government policies, and hold politicians accountable. This **Electoral Management System** is designed to streamline and manage various aspects of the election process, ensuring efficiency and transparency.
 
 ## Features
