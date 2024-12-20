@@ -28,3 +28,7 @@ Elections are at the heart of the democratic process, enabling citizens to choos
 
 - **Programming Language:** C#
 - **Framework:** WinForms (Windows Forms)
+
+## User Interface
+
+![Sign_Up](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/SignUpForm.png)
