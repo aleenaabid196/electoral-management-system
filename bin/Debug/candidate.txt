@@ -1,0 +1,4 @@
+Allama,223,35,JUI,BA,LHR,registered,2
+Nawaz,243,45,PMLN,MA,LHR,registered,4
+
+
