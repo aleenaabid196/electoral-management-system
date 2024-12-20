@@ -32,14 +32,19 @@ Elections are at the heart of the democratic process, enabling citizens to choos
 ## User Interface
 **Sign Up**
 ![Sign_Up](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/SignUpForm.png)
+
 **Admin Menu**
 ![Admin_Menu](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/AdminMenuForm.png)
+
 **Add Citizen**
 ![Add_Citizen](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/AddCitizenPage.png)
+
 **Cast Vote**
 ![Cast_Vote](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/CastVote.png)
+
 **Newsletter**
 ![News_Letter](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/Newsletter.png)
+
 **View Election Result**
 ![View_Election_Result](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/ViewElectionResult.png)
 **Contact Info**
