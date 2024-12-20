@@ -30,7 +30,7 @@ Elections are at the heart of the democratic process, enabling citizens to choos
 - **Framework:** WinForms (Windows Forms)
 
 ## User Interface
-
+###Sign_Up
 ![Sign_Up](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/SignUpForm.png)
 ![Admin_Menu](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/AdminMenuForm.png)
 ![Add_Citizen](https://raw.githubusercontent.com/aleenaabid196/electoral-management-system/refs/heads/main/UI_Screenshots/AddCitizenPage.png)
